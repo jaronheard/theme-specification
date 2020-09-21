@@ -3,9 +3,10 @@
 
 https://system-ui.com
 
-> This specification is a work-in-progress. Please see the related [issue][] for more.
+> This specification is a work-in-progress. Please see the related [issue][] for discussion, or [theme-ui][] for a more detailed example implementation.
 
 [issue]: https://github.com/system-ui/theme-specification/issues/1
+[theme-ui]: https://system-ui.com/theme/
 
 The theme object is intended to be a general purpose format for storing design system style values, scales, and/or design tokens.
 The object itself is not coupled to any particular library's implementation and can be used
